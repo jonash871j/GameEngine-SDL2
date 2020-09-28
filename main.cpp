@@ -78,7 +78,9 @@ int main(int argc, char* argv[])
 		Core::Delay(200);
 	}
 
-	/*for (int y = 0; y < size; y++)
+	/*
+	//Blaknox
+	for (int y = 0; y < size; y++)
 		for (int x = 0; x < size; x++)
 			mapArray[y][x] = ' ';
 
